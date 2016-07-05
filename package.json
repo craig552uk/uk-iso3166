@@ -1,0 +1,28 @@
+{
+  "name": "uk-iso3166",
+  "version": "1.0.0",
+  "description": "Dataset of UK subdivisions down to local authority level",
+  "main": "dataset.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/craig552uk/uk-iso3166.git"
+  },
+  "keywords": [
+    "dataset",
+    "UK",
+    "subdivision",
+    "ISO3166",
+    "council",
+    "district",
+    "county"
+  ],
+  "author": "Craig Russell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/craig552uk/uk-iso3166/issues"
+  },
+  "homepage": "https://github.com/craig552uk/uk-iso3166#readme"
+}
